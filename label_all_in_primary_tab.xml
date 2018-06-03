@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1470826819245</id>
+	<updated>2018-06-03T16:37:58Z</updated>
+	<author>
+		<name>Riesi</name>
+		<email>----</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1470826819245</id>
+		<updated>2018-06-03T16:37:58Z</updated>
+		<content></content>
+		<apps:property name='from' value='*'/>
+		<apps:property name='hasTheWord' value='category:primary'/>
+		<apps:property name='label' value='General'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
